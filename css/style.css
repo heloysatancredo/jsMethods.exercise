@@ -1,0 +1,19 @@
+h1, h2 {
+    font-family: Lato;
+  }
+  
+  .myList {
+    border : 2px solid gold;
+    margin: 10px;
+    padding: 10px;
+    list-style-position: inside; 
+  }
+  
+  /* css class for id footer */
+  #footer {
+      position: fixed;
+      bottom:10px;
+      left:20px;
+      color:red;
+      font-family:Verdana;
+  }
