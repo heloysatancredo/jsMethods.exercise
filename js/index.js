@@ -1,5 +1,5 @@
 const appDiv = document.getElementById('app')
-appDiv.innerHTML = `<h1>Debug Example</h1>`
+appDiv.innerHTML = `<h1>Methods to interact with the DOM / JS Methods</h1><p>Methods used in this page: <li>getElementById | addEventListener | innerHTML | createElement | appendChild | removeChild</li><br><li> parseInt() | Date() </li></p><br><hr><br>`
 
 //get reference to list element in the html page
 const list1 = document.getElementById('list1')
